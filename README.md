@@ -1,11 +1,17 @@
 # Analise-Comercial-Farmaceutica
 
-Dashboard interativo criado no Power BI para análise de vendas e faturamento comercial.
+Este projeto é um dashboard interativo desenvolvido no Power BI para analisar a performance comercial de uma farmácia e loja de cosméticos.
 
 ## 📊 Visualização do Dashboard
-![Painel de Controle](https://raw.githubusercontent.com/gleziliene6/Analise-Comercial-Farmaceutica/main/Dashboard%20power%20bi.png)
+![Dashboard](dashboard.png)
 
-## 🛠️ Tecnologias
-* Power BI
-* DAX
-* Excel (Fonte de dados)
+## 🛠️ Tecnologias e Ferramentas
+* **Power BI**: Criação de gráficos e design do painel.
+* **DAX**: Desenvolvimento de medidas para cálculo de faturamento.
+* **Power Query**: Limpeza e tratamento dos dados.
+* **Excel**: Fonte de dados (Histórico de vendas).
+
+## 📈 Principais Insights
+* O faturamento total acumulado foi de **R$ 7,74 Mi**.
+* Junho apresentou o maior pico de vendas no período analisado.
+* As categorias de **Cosméticos** e **Medicamentos** são as principais geradoras de receita.
