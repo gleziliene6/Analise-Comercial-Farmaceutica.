@@ -3,7 +3,7 @@
 Dashboard interativo criado no Power BI para análise de vendas e faturamento comercial.
 
 ## 📊 Visualização do Dashboard
-![Painel de Controle](https://raw.githubusercontent.com/gleziliene6/Analise-Comercial-Farmaceutica/main/Painel%20de%20controle%20do%20Power%20BI.png)
+![Painel de Controle](https://raw.githubusercontent.com/gleziliene6/Analise-Comercial-Farmaceutica/main/Dashboard%20power%20bi.png)
 
 ## 🛠️ Tecnologias
 * Power BI
